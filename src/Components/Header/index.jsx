@@ -69,7 +69,7 @@ function Header() {
                 </div>
 
                 <div className="heading1">
-                    <h1> FEATURED PRODUTS</h1>
+                    <h1> FEATURED PRODUCTS</h1>
                 </div>
 
             </header>
